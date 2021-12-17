@@ -1,1 +1,1 @@
-# Projeto de uma calculadora utilizando HTML, CSS e Javascript realizado em conjunto com o professor Rafael Leme.
+# Projeto de uma calculadora utilizando HTML, CSS e Javascript realizado na aula do professor Rafael Nogueira Leme.
